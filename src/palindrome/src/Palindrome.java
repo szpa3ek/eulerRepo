@@ -1,3 +1,5 @@
+package palindrome.src;
+
 public class Palindrome {
     public static void main(String[] args) {
         int max = 0;

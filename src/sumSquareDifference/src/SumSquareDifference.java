@@ -1,3 +1,5 @@
+package sumSquareDifference.src;
+
 public class SumSquareDifference {
 
     public static void main(String[] args) {

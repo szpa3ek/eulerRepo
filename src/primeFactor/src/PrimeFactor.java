@@ -1,3 +1,5 @@
+package primeFactor.src;
+
 public class PrimeFactor {
     private static int dividend = 2;
 
